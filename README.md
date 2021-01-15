@@ -11,10 +11,8 @@
 
 ### Connect with me
 
-
-[<img align="left" alt="artkulakov | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][][linkedin]
-[<img align="left" alt="artkulak | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][https://www.kaggle.com/artkulak][kaggle]
-
+[<img align="left" alt="artkulakov | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
+[<img align="left" alt="artkulak | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
 <br />
 
 ### Languages and Tools
@@ -34,3 +32,7 @@
 <img align="left" alt="Pandas" title="Pandas" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/800px-Pandas_mark.svg.png" />
 
 <br />
+
+
+[linkedin]: https://linkedin.com/in/artkulakov
+[kaggle]: https://www.kaggle.com/artkulak
