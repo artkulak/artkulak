@@ -12,7 +12,7 @@
 ### Connect with me
 
 [<img align="left" alt="artkulakov | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Linkedin.svg/1200px-Linkedin.svg.png" />][linkedin]
-[<img align="left" alt="artkulakov | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
+[<img align="left" alt="artkulak | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
 
 <br />
 
