@@ -7,7 +7,7 @@
 
 ### Recent projects
 
-- Developer hand gesture recognizers for interactive mirror app using Google Mediapipe
+- Developed hand gesture recognizers for interactive mirror app using Google Mediapipe
 - Developed Supervised and Unsupervised models for UK Legislation Classification and processing
 - Developed models for Stream Highlights detection
 - Created Unit sale prediction models for the USA food retailer
