@@ -1,13 +1,17 @@
-## Artyom Kulakov - Machine Learning Engineer & Kaggle Competitions Master
+## Artyom Kulakov - Software Engineer & Data Scientist & Kaggle Competitions Master
 
 - :notebook: Work experience in ML & SE: 3+ years
 - :crown: [Kaggle Competitions Master](hhttps://www.kaggle.com/artkulak)
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
 - :computer: [Website](https://artkulakov.com)
 
-### Work experience
+### Recent projects
 
-- test
+- Developer hand gesture recognizers for interactive mirror app using Google Mediapipe
+- Developed Supervised and Unsupervised models for UK Legislation Classification and processing
+- Developed models for Stream Highlights detection
+- Created Unit sale prediction models for the USA food retailer
+- Managed Iphone AR app development for virtual try on
 
 ### Connect with me
 
@@ -33,5 +37,5 @@
 <br />
 
 
-[linkedin]: https://linkedin.com/in/artkulakov
+[linkedin]: https://www.linkedin.com/in/art-kulakov/
 [kaggle]: https://www.kaggle.com/artkulak
