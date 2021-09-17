@@ -3,7 +3,9 @@
 - :notebook: Work experience in ML & SE: 3+ years
 - :crown: [Kaggle Competitions Master](hhttps://www.kaggle.com/artkulak)
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
+- :mortar_board: Getting MSc in Data Science at [Higher School Of Economics](https://www.hse.ru/ba/se/)
 - :computer: [Website](https://artkulakov.com)
+- :fire: Building ML powered Apps for the enterprise clients [artlabs.tech](https://artlabs.tech/)
 
 ### Recent projects
 
