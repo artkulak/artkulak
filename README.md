@@ -1,6 +1,6 @@
 ## Artyom Kulakov - Software Engineer & Data Scientist & Kaggle Competitions Master
 
-- :notebook: Work experience in ML & SE: 3+ years
+- :notebook: Work experience in ML & SE: 4+ years
 - :crown: [Kaggle Competitions Master](hhttps://www.kaggle.com/artkulak)
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
 - :mortar_board: Getting MSc in Data Science at [Higher School Of Economics](https://www.hse.ru/ma/datasci/)
