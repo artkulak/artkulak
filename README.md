@@ -5,7 +5,7 @@
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
 - :mortar_board: Getting MSc in Data Science at [Higher School Of Economics](https://www.hse.ru/ma/datasci/)
 - :computer: Personal website [artkulakov.com](https://artkulakov.com)
-- :fire: Building ML powered Apps for the enterprise clients [artlabs.tech](https://artlabs.tech/)
+- :fire: Building time series forecasting for the enterprise clients [artlabs.tech](https://artlabs.tech/)
 
 ### Recent projects
 
