@@ -31,5 +31,5 @@
 <br />
 
 
-[linkedin]: https://www.linkedin.com/in/art-kulakov/
+[linkedin]: https://www.linkedin.com/in/artyom-kulakov/
 [kaggle]: https://www.kaggle.com/artkulak
