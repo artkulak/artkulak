@@ -1,6 +1,6 @@
 ## Art Kulakov - Machine Learning & Software Engineer & Kaggle Competitions Master
 
-- :notebook: Worked in ML & SE: 6 years
+- :notebook: Worked in ML & SE for 6 years
 - :crown: 2x Startup founder
 - :crown: [Kaggle Competitions Master](hhttps://www.kaggle.com/artkulak)
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
