@@ -1,16 +1,14 @@
-## Artyom Kulakov - Software Engineer & Data Scientist & Kaggle Competitions Master
+## Art Kulakov - Machine Learning & Software Engineer & Kaggle Competitions Master
 
-- :notebook: Work experience in ML & SE: 5+ years
+- :notebook: Worked in ML & SE: 6 years
+- :crown: 2x Startup founder
 - :crown: [Kaggle Competitions Master](hhttps://www.kaggle.com/artkulak)
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
+- :mortar_board: MSc in Data Science at [Higher School Of Economics](https://www.hse.ru/ba/se/)
 
-### Recent projects
+### About me
 
-- Developed hand gesture recognizers for interactive mirror app using Google Mediapipe
-- Developed Supervised and Unsupervised models for UK Legislation Classification and processing
-- Developed models for Stream Highlights detection
-- Created Unit sale prediction models for the USA food retailer
-- Managed Iphone AR app development for virtual try on
+As a proficient Machine Learning Engineer, I combine a solid foundation in full-stack development with robust leadership skills, having collaborated with a global team of talented engineers. My dynamic career trajectory, dotted with diverse startups worldwide, has fostered a resilient entrepreneurial spirit in me.
 
 ### Connect with me
 
