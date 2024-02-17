@@ -1,6 +1,5 @@
-## Art Kulakov - Machine Learning / Software Engineer & Kaggle Competitions Master
+## Art Kulakov - Machine Learning & Software Engineering
 
-- :notebook: Worked in ML & SE for 6 years
 - :crown: 2x Startup founder
 - :crown: UK Global Talent Visa holder
 - :crown: [Kaggle Competitions Master](hhttps://www.kaggle.com/artkulak)
