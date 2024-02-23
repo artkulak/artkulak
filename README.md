@@ -18,6 +18,5 @@ As a proficient Machine Learning Engineer, I combine solid full-stack developmen
 
 <br />
 
-
 [linkedin]: https://www.linkedin.com/in/artyom-kulakov/
 [kaggle]: https://www.kaggle.com/artkulak
