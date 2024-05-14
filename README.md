@@ -8,7 +8,7 @@
 
 ### About me
 
-As a proficient Machine Learning Engineer, I combine solid full-stack development skills with robust leadership skills, having collaborated with a global team of talented engineers. My dynamic career trajectory, dotted with diverse startups worldwide, has fostered a resilient entrepreneurial spirit in me.
+Hi! I am Art, a Lead Software Engineer with extensive knowledge in Machine Learning. I combine a solid combination of full-stack development, data, and leadership skills. I have 7+ years of software engineering experience and 3+ years of managing software and data teams in startups.
 
 ### Connect with me
 
