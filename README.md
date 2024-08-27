@@ -18,5 +18,5 @@ Hi! I am Art, a Lead Software Engineer with extensive knowledge in Machine Learn
 
 <br />
 
-[linkedin]: https://www.linkedin.com/in/artyom-kulakov/
+[linkedin]: https://www.linkedin.com/in/art-kulakov/ 
 [kaggle]: https://www.kaggle.com/artkulak
