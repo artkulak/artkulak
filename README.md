@@ -8,7 +8,7 @@
 
 ### About me
 
-Hi! I am Art, a Lead Software Engineer with extensive knowledge in Machine Learning. I combine a solid combination of full-stack development, data, and leadership skills. I have 7+ years of software engineering experience and 3+ years of managing software and data teams in startups.
+Hands-on Engineering Leader with 8+ years of experience leading high-performing tech teams. Proven ability to drive technical strategy, optimize cloud infrastructure, and launch AI-powered features at scale.
 
 ### Connect with me
 
