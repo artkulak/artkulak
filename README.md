@@ -20,4 +20,3 @@ Hands-on Engineering Leader with 8+ years of experience leading high-performing 
 
 [linkedin]: https://www.linkedin.com/in/art-kulakov/ 
 [kaggle]: https://www.kaggle.com/artkulak
-
