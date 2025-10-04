@@ -1,7 +1,7 @@
 ## Art Kulakov - Machine Learning & Software Engineering
 
 - :crown: 2x Startup founder
-- :crown: UK Global Talent Visa holder
+- :crown: UK Exceptional Talent Visa (Tier 1) holder
 - :crown: Former #26 worldwide on Kaggle, [Competitions Master](https://www.kaggle.com/artkulak/competitions)
 - :mortar_board: BSc in Software Engineering at [Higher School Of Economics](https://www.hse.ru/ba/se/)
 - :mortar_board: MSc in Data Science at [Higher School Of Economics](https://www.hse.ru/ma/datasci/)
