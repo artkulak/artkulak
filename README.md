@@ -7,7 +7,7 @@
 
 ### About me
 
-Hands-on Engineering Leader with 8+ years of experience leading high-performing tech teams. Proven ability to drive technical strategy, optimize cloud infrastructure, and launch AI-powered features at scale.
+Hands-on Engineer leading high-performing tech teams. Proven ability to drive technical strategy, optimize cloud infrastructure, and launch AI-powered features at scale.
 
 ### Connect with me
 
