@@ -11,7 +11,7 @@ Hands-on Engineer leading high-performing tech teams. Proven ability to drive te
 
 ### Connect with me
 
-[<img align="left" alt="artkulakov | LinkedIn" width="22px" src="https://en.wikipedia.org/wiki/File:LinkedIn_icon.svg#/media/File:LinkedIn_logo_initials.png" />][linkedin]
+[<img align="left" alt="artkulakov | LinkedIn" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" />][linkedin]
 [<img align="left" alt="artkulak | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][kaggle]
 <br />
 
